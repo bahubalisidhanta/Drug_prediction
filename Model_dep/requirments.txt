@@ -4,4 +4,4 @@ pandas
 spacy
 scikit-learn
 pickle
-TextBlob
+textblob
