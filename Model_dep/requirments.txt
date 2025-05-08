@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-spacy
-scikit-learn
-pickle
-textblob
