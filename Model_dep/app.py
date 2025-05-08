@@ -15,7 +15,7 @@ import numpy as np
 import streamlit as st
 
 enc = pickle.load(open('Model_dep/encoder_lb.pkl','rb'))
-model = pickle.load(open('Model_dep/model_gbc.pkl', 'rb'))``
+model = pickle.load(open('Model_dep/model_gbc.pkl', 'rb'))
 
 def sentiment_count(text):
     sent = TextBlob(text)
